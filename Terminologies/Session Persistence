@@ -1,0 +1,11 @@
+Session Persistence
+    Session Persistence refers to forwards of the request to the same sever for the duration of the transaction/session.
+    
+Pros:
+    1) Servers store/cache user data of the ongoing transaction.
+    2) Server can pre-cache data depending on user request.
+    3) Large document can be broken and sent as multiple request-responses.
+
+Methodology
+    1) Cookies
+    2) Sticky Routes

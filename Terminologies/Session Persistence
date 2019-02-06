@@ -1,5 +1,5 @@
 Session Persistence
-    Session Persistence refers to forwards of the request to the same sever for the duration of the transaction/session.
+    Session Persistence refers to sending all requests from a particular client to the same sever for the duration of the transaction/session.
     
 Pros:
     1) Servers store/cache user data of the ongoing transaction.
@@ -9,3 +9,5 @@ Pros:
 Methodology
     1) Cookies
     2) Sticky Routes
+
+    https://www.nginx.com/resources/glossary/session-persistence

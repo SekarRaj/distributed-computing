@@ -1,1 +1,1 @@
-locality sensitive hashing.md
+# Locality Sensitive Hashing

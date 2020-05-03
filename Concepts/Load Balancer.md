@@ -22,3 +22,8 @@
 * [HAProxy](http://www.haproxy.org/)
 * [AWS ALB and ELB](https://aws.amazon.com/elasticloadbalancing/)
 * [Azure Traffic Manager and Front Door Service](https://docs.microsoft.com/en-us/azure/frontdoor/front-door-lb-with-azure-app-delivery-suite)
+
+Software Load Balancers
+IP Virtual Server - IPVS
+Facebook Katran
+Cilium
